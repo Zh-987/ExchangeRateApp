@@ -1,0 +1,17 @@
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\bin\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.deps.json
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\bin\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.runtimeconfig.json
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\bin\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.dll
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\bin\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.pdb
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\bin\Debug\net7.0\TrackingCzechExchangeRates.Core.dll
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\bin\Debug\net7.0\TrackingCzechExchangeRates.Core.pdb
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.AssemblyInfo.cs
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.csproj.CopyComplete
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.dll
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\refint\TrackingCzechExchangeRates.Infrastructure.dll
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.pdb
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\TrackingCzechExchangeRates.Infrastructure.genruntimeconfig.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Infrastructure\obj\Debug\net7.0\ref\TrackingCzechExchangeRates.Infrastructure.dll

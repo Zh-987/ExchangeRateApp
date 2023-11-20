@@ -1,0 +1,14 @@
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\bin\Debug\net7.0\TrackingCzechExchangeRates.Core.deps.json
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\bin\Debug\net7.0\TrackingCzechExchangeRates.Core.runtimeconfig.json
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\bin\Debug\net7.0\TrackingCzechExchangeRates.Core.dll
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\bin\Debug\net7.0\TrackingCzechExchangeRates.Core.pdb
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.csproj.AssemblyReference.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.AssemblyInfoInputs.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.AssemblyInfo.cs
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.csproj.CoreCompileInputs.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.dll
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\refint\TrackingCzechExchangeRates.Core.dll
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.pdb
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\TrackingCzechExchangeRates.Core.genruntimeconfig.cache
+C:\Users\assai\source\repos\CurrencyRateApp\TrackingCzechExchangeRates.Core\obj\Debug\net7.0\ref\TrackingCzechExchangeRates.Core.dll

@@ -1,0 +1,2 @@
+C:\Users\assai\source\repos\CurrencyRateApp\angularapp\obj\Debug\angularapp.esproj.SuggestedBindingRedirects.cache
+C:\Users\assai\source\repos\CurrencyRateApp\angularapp\obj\Debug\angularapp.esproj.CoreCompileInputs.cache
